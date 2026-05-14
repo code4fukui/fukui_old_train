@@ -32,7 +32,7 @@ This project is configured to run on the following platforms:
 
 2.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/fukui_old_train.git
+    git clone https://github.com/code4fukui/fukui_old_train.git
     cd fukui_old_train
     ```
 
